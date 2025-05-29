@@ -23,6 +23,7 @@ python matlab掌握
 徒步登上爱好者
 喜欢做饭  
 爱折腾电子设备和软件
+我的公众号：二人食twice
 
 ### 经历
 UESTC BME
