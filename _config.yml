@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Echen's Blog"
+name: "24kshuai"
 # Short bio or description (displayed in the header)
-description: "先有码然后无码"
+description: ""
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/jiahiu24/jiahiu24.github.io/raw/master/images/kurisu.png
+avatar: https://github.com/jiahiu24/jiahiu24.github.io/raw/master/images/头像/1.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/jiahiu24/jiahiu24.github.io/raw/master/images/lemon
 
